@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "../../../../../../Documents/learning-python"
+		},
+		{
+			"path": "../../../../../../myworld"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "learning-python"
+    }
+}
